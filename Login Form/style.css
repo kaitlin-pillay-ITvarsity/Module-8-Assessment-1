@@ -1,0 +1,22 @@
+#style{
+	
+	text-align: center;
+	font-family: sans-serif;
+	border-spacing: 10%;
+	border-style: solid;
+	border-color: white;
+	border-width: thick;
+	background-color:white;
+	box-shadow: 0 0 5px #03e9f4,
+		        0 0 25px#03e9f4,
+		        0 0 50px#03e9f4,
+		        0 0 100px#03e9f4;
+	
+}
+#home{
+	padding:10% 20% 10% 20%;
+	background-color: black;
+}
+#style p{
+	font-family: monospace;
+}
